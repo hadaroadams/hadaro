@@ -1,0 +1,51 @@
+body{
+    background-image: url(gray-simple-textured-background-design_53876-66051.jpg)  ;
+    background-repeat: no-repeat;
+    background-size: 500%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:burlywood;
+  }
+  
+  li {
+     float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color:orange;
+  }
+  .active {
+    background-color:rgb(49, 41, 41);
+    float: right;
+  }
+  .container1{
+    text-align:center;
+  }
+  .container2{
+    padding-left: 25%;
+  }
+  div button{
+    margin-right: 50px;;
+  }
+  input{
+    background-color:transparent ;
+  }
+  select{
+    background-color: transparent;
+  }
+  textarea{
+    background-color: transparent;
+  }
+  
